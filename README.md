@@ -1,14 +1,14 @@
 #### 😊 IvanSelah
-
 ---
+<div align=center>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhahmsongmin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hello%E2%AD%90&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 
 ###### Web Front-end Developer. 🔨
 
-<div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhahmsongmin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23C73FC2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
 
 💻💡 Tech
 
