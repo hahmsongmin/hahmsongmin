@@ -1,16 +1,26 @@
-### Hi there 👋
+#### 😊 IvanSelah
 
-<!--
-**hahmsongmin/hahmsongmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+###### Web Front-end Developer. 🔨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhahmsongmin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23C73FC2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
+💻💡 Tech
+
+|                |                                                                                                       Language                                                                                                       |                                                Web Front-End                                                |                                                                                                                                                                                                                                                                                     Web Back-End                                                                                                                                                                                                                                                                                     |
+| :------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|     ✅Main     |                                              [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=41454A)]()                                              | [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000)]() |                                                                                                                                                                                                                                                                                          -                                                                                                                                                                                                                                                                                           |
+| Sub Experience | [![C++ Badge](https://img.shields.io/badge/C,C++-00599C?style=flat-square&logo=C&logoColor=000000)]() [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=E8E8E8)]() |                                                      -                                                      | [![Express Badge](https://img.shields.io/badge/ExpressJS-000000?style=flat-square&logo=Express&logoColor=E8E8E8)]() [![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=E8E8E8)]() <br/>[![Flask Badge](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=E8E8E8)]() [![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=E8E8E8)]() [![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=E8E8E8)]() |
+
+[![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=000000)]() [![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=#E8E8E8)]() [![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=E8E8E8)]() [![styled-components Badge](https://img.shields.io/badge/styledcomponents-E8E8E8?style=flat-square&logo=styled-components&logoColor=DB7093)]() [![PostCss Badge](https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=PostCSS&logoColor=E8E8E8)]() <br/>
+[![Visual Studio Code Badge](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=E8E8E8)]() [![Visual Studio Badge](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=E8E8E8)]() [![PyCharm Badge](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=E8E8E8)]() [![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=E8E8E8)]() [![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=E8E8E8)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=E8E8E8)]() [![Slack Badge](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=E8E8E8)]()
+
+📧 How to reach me 🙌
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tft0720@gmail.com)](mailto:tft0720@gmail.com)
+tft0720@gmail.com 👈
