@@ -6,7 +6,7 @@
 
 </div>
 
-GitHub Readme Stats: github-readme-stats.vercel.app/api?username={hahmsongmin}&show_icons=true
+github-readme-stats.vercel.app/api?username={hahmsongmin}&show_icons=true
 
 ###### Web Front-end Developer. 🔨
 
