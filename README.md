@@ -6,7 +6,7 @@
 
 </div>
 
-github-readme-stats.vercel.app/api?username={hahmsongmin}&show_icons=true
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hahmsongmin)](https://github.com/anuraghazra/github-readme-stats)
 
 ###### Web Front-end Developer. 🔨
 
