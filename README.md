@@ -6,7 +6,7 @@
 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hahmsongmin&langs_count=8&layout=compact)](https://github.com/hahmsongmin/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hahmsongmin)](https://github.com/hahmsongmin/github-readme-stats)
 
 ###### Web Front-end Developer. 🔨
 
