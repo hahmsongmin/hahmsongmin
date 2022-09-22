@@ -1,4 +1,4 @@
-#### 😊 IvanSelah
+#### 😊 IvanSelah - 자신의 꿈에 실천의 기회를 주지 않는다면 영원히 기회는 없다.
 ---
 <div align=center>
 
@@ -6,7 +6,7 @@
 
 </div>
 
-###### Web Front-end Developer. 🔨
+###### Wanna Full-Stack Developer. 🔨
 
 💻💡 Tech.
 | | Language | Web Front-End | Web Back-End |
