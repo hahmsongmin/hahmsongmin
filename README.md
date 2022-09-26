@@ -9,7 +9,7 @@
 ###### Wanna Full-Stack Developer. 🔨
 ---
 #### 요즘 공부 중 뿌시기
-#### 🔥네트워크-컴퓨터구조, 클린 리팩토링, 함수형 프로그래밍, 유닛테스트 TDD
+#### 🔥네트워크-컴퓨터구조, 클린 리팩토링, 함수형 프로그래밍, Unit/Intergration Tests, Git Actions(CI/CD)
 ---
 
 💻💡 Tech. 
