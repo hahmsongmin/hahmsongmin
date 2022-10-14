@@ -6,7 +6,7 @@
 
 </div>
 
-###### Wanna Full-Stack Developer. 🔨
+###### Wanna Super FE Developer. 🔨
 ---
 #### 요즘 공부 중 뿌시기
 #### 🔥네트워크-컴퓨터구조, 클린 리팩토링, 함수형 프로그래밍, Unit/Intergration Tests, GitHub Actions(CI/CD)
