@@ -1,5 +1,6 @@
 #### 😊 IvanSelah - 자신의 꿈에 실천의 기회를 주지 않는다면 영원히 기회는 없다.
 #### 똑같은 생각과 같은 일을 반복하면서 다른 결과가 나오기를 기대하는 것보다 더 어리석은 생각은 없다.
+[![unit-tdd CI](https://github.com/ivanselah/unit-tdd/actions/workflows/unit-tdd-ci.yml/badge.svg)](https://github.com/ivanselah/unit-tdd/actions/workflows/unit-tdd-ci.yml)
 ---
 <div align=center>
 
