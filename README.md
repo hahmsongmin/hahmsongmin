@@ -1,4 +1,4 @@
-### Deep Dive FE Developer. 🔨
+### ✋ Deep Dive FE Developer. 
 
 ![whoareyou](https://github.com/ivanselah/ivanselah/assets/78192018/b6ae0a0f-cc06-4222-8ea8-d8e11a2a35b1)
 
