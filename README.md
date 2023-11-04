@@ -1,6 +1,6 @@
 ✋ Deep Dive FE Developer. 
 
-![whoareyou](https://github.com/ivanselah/ivanselah/assets/78192018/b6ae0a0f-cc06-4222-8ea8-d8e11a2a35b1)
+![whoareyou](https://github.com/ivanselah/ivanselah/assets/78192018/1f5ffddd-ca85-4b2a-ab39-9e341abc592c)
 
 - 자바스크립트에 베팅하라.
 - 자신의 꿈에 실천의 기회를 주지 않는다면 영원히 기회는 없다.
